@@ -30,6 +30,26 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+
+## 📁 Projects
+
+<div align="center">
+
+<a href="https://github.com/aminesalhi77/Extranet-similator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=Extranet-similator&theme=dark&show_owner=false" width="400"/>
+</a>
+
+</div>
+
+<br />
+
+| 📁 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+| :--- | :--- | :--- | :--- |
+| **Extranet-similator** | Web application extranet simulator | `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+
+## 📊 GitHub Stats:
+
+
 ## 📊 GitHub Stats:
 
 <div align="center">
