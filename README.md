@@ -64,5 +64,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=aminesalhi77&theme=darkhub&no-frame=true&no-background=true)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=aminesalhi77&color=blue&style=flat)
