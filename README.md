@@ -45,9 +45,8 @@
 
 | 📁 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **Extranet-similator** | Web application extranet simulator | `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS`,`html5`,`css3` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
 
-## 📊 GitHub Stats:
 
 
 ## 📊 GitHub Stats:
