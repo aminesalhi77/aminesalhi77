@@ -47,8 +47,8 @@
 
 | 📁 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **bkfood-v3** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
-| **Extranet-similator** | Web application extranet simulator | `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+| **BK-Prod** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js`,`...` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
+| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS`,`...` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
 
 ## 📊 GitHub Stats:
 
