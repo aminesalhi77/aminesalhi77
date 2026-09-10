@@ -34,8 +34,11 @@
 
 <div align="center">
 
+<a href="https://github.com/aminesalhi77/bkfood-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=bkfood-v3&theme=dark&show_owner=false" width="380"/>
+</a>
 <a href="https://github.com/aminesalhi77/Extranet-similator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=Extranet-similator&theme=dark&show_owner=false" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=Extranet-similator&theme=dark&show_owner=false" width="380"/>
 </a>
 
 </div>
@@ -44,9 +47,8 @@
 
 | 📁 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS`,`html5`,`css3` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
-
-
+| **bkfood-v3** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
+| **Extranet-similator** | Web application extranet simulator | `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
 
 ## 📊 GitHub Stats:
 
