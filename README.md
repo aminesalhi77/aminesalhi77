@@ -34,11 +34,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight.vercel.app/api?username=aminesalhi77&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aminesalhi77&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=aminesalhi77&theme=dark&hide_border=true" alt="Streak Stats" />
 
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=aminesalhi77&theme=dark&layout=compact&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminesalhi77&theme=dark&layout=compact&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
 
 </div>
 
