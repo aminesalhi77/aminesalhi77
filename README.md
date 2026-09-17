@@ -2,6 +2,7 @@
 
 - 🎓 Business Intelligence Student at **ISIGK**
 - 🔭 Working on full-stack web applications and data automation projects
+- 🖥️ Building **cross-platform desktop apps** with Tauri + Rust
 - 🌱 Currently learning RAG & AI Automation
 - 💬 Ask me about Full-Stack Web Dev, Data Science, or Linux
 - ⚡ Fun fact: I use Arch Linux / CachyOS btw
@@ -23,6 +24,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Desktop
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,15 +35,15 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
-## 📁 Projects
+## 📁 Featured Projects
 
 <div align="center">
 
+<a href="https://github.com/aminesalhi77/system-whisperer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=system-whisperer&theme=dark&show_owner=false" width="380"/>
+</a>
 <a href="https://github.com/aminesalhi77/bkfood-v3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=bkfood-v3&theme=dark&show_owner=false" width="380"/>
-</a>
-<a href="https://github.com/aminesalhi77/Extranet-similator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminesalhi77&repo=Extranet-similator&theme=dark&show_owner=false" width="380"/>
 </a>
 
 </div>
@@ -47,13 +52,13 @@
 
 | 📁 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **BK-Prod** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js`,`...` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
-| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS`,`...` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+| **System Whisperer** | Cross-platform desktop system monitor — explains CPU, RAM & disk in plain English | `Rust`, `Tauri`, `JavaScript` | [View Repo](https://github.com/aminesalhi77/system-whisperer) |
+| **BK-Prod** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
+| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-
 
 <img src="https://streak-stats.demolab.com/?user=aminesalhi77&theme=dark&hide_border=true" alt="Streak Stats" />
 
