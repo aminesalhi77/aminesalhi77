@@ -1,5 +1,5 @@
 # 💫 About Me:
- 
+  
 - 🎓 Business Intelligence Student at **ISIGK**
 - 🔭 Working on full-stack web applications and data automation projects
 - 🖥️ Building **cross-platform desktop apps** with Tauri + Rust and **native Qt6 + C++**
