@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🌑 [aminesalhi77.github.io/Portfolio](https://aminesalhi77.github.io/Portfolio/)
+###  [aminesalhi77.github.io/Portfolio](https://aminesalhi77.github.io/Portfolio/)
 
 **My personal portfolio — dark mode, neon accents, animated space background.**
 Built with plain HTML, CSS, and vanilla JavaScript.
