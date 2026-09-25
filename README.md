@@ -7,11 +7,34 @@
 - 💬 Ask me about Full-Stack Web Dev, Data Science, or Linux
 - ⚡ Fun fact: I use Arch Linux / CachyOS btw
 
-## 🌐 Socials:
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### 🌑 [aminesalhi77.github.io/Portfolio](https://aminesalhi77.github.io/Portfolio/)
+
+**My personal portfolio — dark mode, neon accents, animated space background.**
+Built with plain HTML, CSS, and vanilla JavaScript.
+
+</div>
+
+---
+
+## 📬 Socials:
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=firefox&logoColor=black)](https://aminesalhi77.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salhiamine870@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-salhi-937698302)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohameed_aminee22)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1LpuTzDEmq/)
+
+</div>
+
+---
 
 ## 💻 Tech Stack:
 
@@ -36,6 +59,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+---
 
 ## 📁 Featured Projects
 
@@ -56,8 +80,11 @@
 | :--- | :--- | :--- | :--- |
 | **VOID** | Native Qt6 music player with a neon aesthetic — library scanner, categories, live search, reactive visualizer | `C++`, `Qt6`, `QML`, `TagLib` | [View Repo](https://github.com/aminesalhi77/VOID_Player) |
 | **System Whisperer** | Cross-platform desktop system monitor — explains CPU, RAM & disk in plain English | `Rust`, `Tauri`, `JavaScript` | [View Repo](https://github.com/aminesalhi77/system-whisperer) |
-| **BK-Prod** | Real-time production traceability web application | `TypeScript`, `React`, `Node.js` | [View Repo](https://github.com/aminesalhi77/bkfood-v3) |
-| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+| **BK-Prod** | Real-time production traceability web application — in production at a construction company | `TypeScript`, `React`, `Node.js`, `PostgreSQL` | [View Repo](https://github.com/aminesalhi77/BK-Prod) |
+| **Extranet-similator** | Web application extranet simulator | `PHP`, `JS`, `MySQL` | [View Repo](https://github.com/aminesalhi77/Extranet-similator) |
+| **Portfolio** | Personal portfolio — dark mode, neon, animated space background | `HTML`, `CSS`, `JavaScript` | [View Live](https://aminesalhi77.github.io/Portfolio/) |
+
+---
 
 ## 📊 GitHub Stats:
 
@@ -67,8 +94,14 @@
 
 </div>
 
+---
+
 ## 🏆 GitHub Trophies:
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=aminesalhi77&theme=darkhub&no-frame=true&no-background=true)
+
+</div>
 
 ---
